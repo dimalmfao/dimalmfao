@@ -6,7 +6,7 @@ im currently working on a new project, dimaonline. if you wanna see what's going
 
 ## wanna contact me?!??!!!
 
-im currently very busy, i don't have many choices but after ive got a problem with discord, im inviting you to contact me via [telegram](https://t.me/vtnarx).
+im currently very busy, i don't have many choices but after ive got a problem with discord, im inviting you to contact me via [telegram](https://t.me/dimalmfao).
 
 <!--
 **dimaaac/dimaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
