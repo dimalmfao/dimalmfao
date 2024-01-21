@@ -9,7 +9,9 @@ Currently, I'm deeply engrossed in a project shrouded in mystery—an enigmatic 
 > *In this complex landscape, my focus extends beyond mere theoretical understanding to practical applications. I engage with challenges such as image recognition, natural language processing, and predictive modeling, leveraging the power of neural networks to unravel insights and enhance decision-making processes. As the boundaries of this field continually expand, I am driven by the pursuit of pushing those limits, experimenting with emerging technologies, and contributing to the evolution of neural network applications in diverse domains. This commitment stems from both a professional curiosity and a genuine passion for the transformative potential embedded within the intricate layers of neural networks and their technological counterparts.*
 
 ## How to Reach Me?
-My schedule is quite packed at the moment, but if you'd like to get in touch, feel free to reach out to me through [telegram](https://t.me/dimalmfao).
+My schedule is quite packed at the moment, but if you'd like to get in touch, feel free to reach out to me through [telegram](https://t.me/dimalmfao) and be sure to check out my [discord server](https://discord.gg/4HJBmGDWuV)! [src](https://src.eco/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimaaac&layout=compact)
 
 <!--
 **dimaaac/dimaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
