@@ -19,7 +19,7 @@ I'm a software developer with a passion for AI and Linux kernel modules. Here's 
 ## 📫 Get in Touch
 
 My schedule is quite packed at the moment, but if you'd like to get in touch, feel free to reach out to me through:
-- LinkedIn: [@dimaaacik](https://discord.gg/4HJBmGDWuV)
+- Discord: [@dimaaacik](https://discord.gg/4HJBmGDWuV)
 - Telegram: [@dimalmfao](https://t.me/dimalmfao)
 
 Let's connect and chat about tech, music, AI, or anything interesting! 🚀
