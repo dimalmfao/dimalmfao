@@ -1,6 +1,8 @@
 # Ayy, I'm Dima 👋
 
-I'm a software developer with a passion for AI and Linux kernel modules. Here's a snapshot of what I'm currently working on:
+I'm a (passionate) software developer with a passion for AI and Linux kernel modules. Here's a snapshot of what I'm currently working on below, but first
+
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
 
 ## 🚀 Opensource Projects
 
@@ -25,6 +27,7 @@ My schedule is quite packed at the moment, but if you'd like to get in touch, fe
 Let's connect and chat about tech, music, AI, or anything interesting! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimalmfao&layout=compact)
+
 
 > *Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?*
 
