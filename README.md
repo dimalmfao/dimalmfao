@@ -1,8 +1,6 @@
 # Ayy, I'm Dima 👋
 
-I'm a (passionate) software developer with a passion for AI and Linux kernel modules. Here's a snapshot of what I'm currently working on below, but first
-
-[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+I'm a (passionate) software developer with a passion for AI and Linux kernel modules. Here's a snapshot of what I'm currently working on below
 
 ## 🚀 Opensource Projects
 
