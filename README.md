@@ -5,8 +5,8 @@ I'm a (passionate) software developer with a passion for AI and Linux kernel mod
 ## 🚀 Opensource Projects
 
 - DimaNet: Building a ANSI C-based neural network library. See more at [DimaNet's main repo](https://github.com/dimalmfao/dimanet).
+- AltEndSort: My own (shitty) sorting algorithm. See more at [AltEndSort's main repo](https://github.com/dimalmfao/altendsort).
 - VTX: Framework for training and using neural networks with various activation functions. See more at [VTX's main repo](https://github.com/0-5788719150923125/vtx).
-- Linux:
 
 ## 🌱 Personal
 
@@ -14,7 +14,6 @@ I'm a (passionate) software developer with a passion for AI and Linux kernel mod
 - AI enthusiast actively exploring new trends and advancements.
 - Loves making music. I'm a musician, pianist.
 - I absolutely love planes, aerodynamics, air in general. (love breathing air too)
-- Some details might be for opsec, who knows... or maybe not.
 
 ## 📫 Get in Touch
 
