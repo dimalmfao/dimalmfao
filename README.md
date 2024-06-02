@@ -1,4 +1,4 @@
-# Ayy, I'm Dima 👋
+# ayy, im [dima](https://dima.src.eco/) 👋
 
 I'm a (passionate) software developer with a passion for AI and Linux kernel modules. Here's a snapshot of what I'm currently working on below
 
