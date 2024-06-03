@@ -21,12 +21,12 @@ My schedule is quite packed at the moment, but if you'd like to get in touch, fe
 - Discord: [@dimaaacik](https://discord.gg/4HJBmGDWuV)
 - Telegram: [@dimalmfao](https://t.me/dimalmfao)
 
-Let's connect and chat about tech, music, AI, or anything interesting! 🚀
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimalmfao&layout=compact)
 
 
 > *Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?*
+
+MANJARO ISN'T ARCH! [manjarNO](https://github.com/bluskript/manjarno)
 
 <!--
 **dimaaac/dimaaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
