@@ -2,8 +2,8 @@
 
 yes https://dima.src.eco/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimalmfao&layout=compact)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 > *Has Anyone Really Been Far Even as Decided to Use Even Go Want to do Look More Like?*
 
